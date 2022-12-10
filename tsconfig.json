@@ -6,6 +6,9 @@
       "dom.iterable",
       "esnext"
     ],
+    "types": [ 
+      "kakao.maps.d.ts"
+    ],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -20,6 +23,7 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
+ 
   "include": [
     "src"
   ]
